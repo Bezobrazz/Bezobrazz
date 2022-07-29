@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viacheslav Kostenko (@Bezobrazz)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5, CSS3, JS, Wordpress, React 
+- 🌱 I’m currently learning JS, Wordpress, React/Redux 
 - 💞️ I’m looking to collaborate on web studios
 - 📫 How to reach me +380934255706
 
